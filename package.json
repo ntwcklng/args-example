@@ -1,0 +1,17 @@
+{
+  "name": "args-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "music.js",
+  "bin": {
+    "music": "music.js",
+    "music-play": "music-play.js",
+    "music-stop": "music-stop.js"
+  },
+  "keywords": [],
+  "author": "Marvin Mieth <ntwcklng@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "args": "^2.6.0"
+  }
+}
